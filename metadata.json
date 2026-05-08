@@ -1,0 +1,5 @@
+{
+  "name": "LingoBridge",
+  "description": "A powerful AI-driven language translator that supports any language with context-aware translations.",
+  "requestFramePermissions": ["microphone"]
+}
