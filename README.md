@@ -6,8 +6,6 @@ Read [](file:///c%3A/Users/DELL7420/OneDrive/Documents/GitHub/ProgettoBCC/src/ro
 
 Read [](file:///c%3A/Users/DELL7420/OneDrive/Documents/GitHub/ProgettoBCC/requirements.txt)
 
-Here's an explanation of your **ProgettoBCC** project:
-
 ## **Project Overview**
 This is a **Flask-based web application** for managing events and user interactions, likely designed for a Banking/Financial institution (BCC = Banca Credito Cooperativo, an Italian cooperative bank).
 
